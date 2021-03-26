@@ -1,0 +1,114 @@
+body {
+  color: #a00;
+  font-family: 'Open Sauce Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+a, a:link, a:hover, a:visited  {
+  color: #a00;
+  }
+
+.container {
+  }
+.row {
+  }
+.column {
+  }
+
+.menubar {
+  margin: 2rem 0;
+  display: none;
+  }
+.menubar a {
+  text-decoration: underline;
+  color: #a66;
+  }
+.menubar a:hover {
+  color: #a00;
+  }
+@media (min-width: 550px) {
+  .menubar {
+    display: block;
+    }
+  .menubar .right {
+    text-align: right;
+    }
+  }
+
+.headline {
+  margin: 10rem 0 6rem;
+  text-align: center;
+  }
+.headline h2 {
+  font-weight: 600;
+  font-size: 1.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  }
+.headline h1 {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  font-size: 8rem;
+  color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #a00;
+  }
+.headline h3 {
+  font-weight: 600;
+  font-size: 1.75rem;
+  letter-spacing: 0.1em;
+  margin-top: 2rem;
+  }
+
+.quote {
+  padding-left: 1rem;
+  text-indent: -1rem;
+  font-weight: 600;
+  font-size: 2rem;
+  letter-spacing: 0.01em;
+  }
+.quote span {
+  font-weight: 400;
+  }
+.quote .vbar {
+  margin-top: 1rem;
+  margin-bottom: 5rem;
+  }
+
+.introduction {
+  }
+.introduction h4 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.01em;
+  }
+.introduction p {
+  font-size: 1.8rem;
+  font-weight: 600;
+  }
+
+
+.vbar {
+  border-right: 5px solid #a00;
+  height: 200px;
+  width: 50%;
+  }
+
+.statements h4 {
+  letter-spacing: 0.01em;
+  padding-bottom: 20px;
+  margin-top: 4rem;
+  font-weight: 600;
+  font-size: 4rem;
+  border-bottom: 5px solid #a00;
+  }
+.statements p {
+  font-size: 2rem;
+  }
+
+#footer {
+  font-size: 3rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  padding-top: 5rem;
+  border-top: 5px solid #a00;
+  }
