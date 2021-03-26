@@ -12,6 +12,6 @@ Non-English Translations are stored in subdirectories based on ISO 639-1 languag
 
 If you would like to contribute a translation, please look at the examples of non-English index files.
 
-Please direct all queries to [Hettie Jidah](https://www.hettiejudah.co.uk).
+Please direct all queries to [Hettie Judah](https://www.hettiejudah.co.uk).
 
 The site is maintained by [James Bridle](https://jamesbridle.com/).
