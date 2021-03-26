@@ -1,0 +1,17 @@
+# Artist Parents
+
+This is the website for [artist-parents.com](https://artist-parents.com/).
+
+It is written in flat text files.
+
+It consists of an index page, and a secondary page under /more.
+
+It uses some /css and webfonts, all included.
+
+Non-English Translations are stored in subdirectories based on ISO 639-1 language codes, e.g. /pl for Polish/Polskie.
+
+If you would like to contribute a translation, please look at the examples of non-English index files.
+
+Please direct all queries to [Hettie Jidah](https://www.hettiejudah.co.uk).
+
+The site is maintained by [James Bridle](https://jamesbridle.com/).
