@@ -56,7 +56,7 @@
         <div class="column">
 
           <h4>1.	As an organisation, be explicitly welcoming to artists with families</h4>
-          <p>Be breastfeeding friendly, stay in contact with artists when they become parents.</p>
+          <p>Be breastfeeding friendly; stay in contact with artists when they become parents.</p>
           <p>The art does not need to be family friendly, but the institution should be.</p>
 
           <h4>2.	Make it standard practice to establish an artist’s family circumstances at the outset of a project, and have structures in place to accommodate their parenting responsibilities</h4>
