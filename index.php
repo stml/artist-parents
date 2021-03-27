@@ -93,17 +93,17 @@
       <div class="row">
         <div class="column">
           <p><a href="more">More information and resources</a></p>
-          <p>Other languages</p>
+          <p>Available in translation:</p>
         </div>
       </div>
       <div class="row">
         <div class="one-third column"><a href="en">English</a></div>
-        <div class="one-third column"><a href="fr">Français</a></div>
         <div class="one-third column"><a href="pl">Polskie</a></div>
+        <div class="one-third column"></div>
       </div>
       <div class="row">
-        <div class="one-third column"></div>
-        <div class="one-third column"></div>
+        <div class="one-third column"><a href="fr">Français</a></div>
+        <div class="one-third column"><a href="pt">Português</a></div>
         <div class="one-third column"></div>
       </div>
     </div>
