@@ -6,25 +6,25 @@
   <title>Artist Parents</title>
   <meta name="description" content="How Not To Exclude Artist Parents: Some Guidelines for Institutions and Residencies">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/fonts.css">
-  <link rel="stylesheet" href="css/styles.css?=<?=rand()?>">
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/skeleton.css">
+  <link rel="stylesheet" href="../css/fonts.css">
+  <link rel="stylesheet" href="../css/styles.css?=<?=rand()?>">
+  <link rel="icon" type="image/png" href="../images/favicon.png">
 
 </head>
 <body>
 
 <div class="container">
 
-      <div class="row menubar">
-        <div class="one-half column left">
-          <p><a href="more">More Information</a></p>
-        </div>
-        <div class="one-half column right">
-          <p><a href="#footer">More Languages</a></p>
-        </div>
-      </div>
+  <div class="row menubar">
+    <div class="one-half column left">
+      <p><a href="../more">More Information</a></p>
+    </div>
+    <div class="one-half column right">
+      <p><a href="../#footer">More Languages</a></p>
+    </div>
+  </div>
 
       <div class="row headline">
         <div class="column">
@@ -93,18 +93,8 @@
       <div class="row">
         <div class="column">
           <p><a href="more">More information and resources</a></p>
-          <p>Other languages</p>
+          <p><a href="../#footer">Other languages</p>
         </div>
-      </div>
-      <div class="row">
-        <div class="one-third column"><a href="en">English</a></div>
-        <div class="one-third column"><a href="fr">Français</a></div>
-        <div class="one-third column"><a href="pl">Polskie</a></div>
-      </div>
-      <div class="row">
-        <div class="one-third column"></div>
-        <div class="one-third column"></div>
-        <div class="one-third column"></div>
       </div>
     </div>
 
