@@ -3,8 +3,8 @@
 <head>
 
   <meta charset="utf-8">
-  <title>Rodziców Wykonawców</title>
-  <meta name="description" content="Jak nie wykluczać Rodziców Wykonawców - Najlepsze praktyki dla instytucji podczas pracy z rodzicami-artystkami">
+  <title>Rodziców Artystów</title>
+  <meta name="description" content="Jak nie wykluczać Rodziców Artystów - Najlepsze praktyki dla instytucji podczas pracy z rodzicami-artystkami">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../css/normalize.css">
   <link rel="stylesheet" href="../css/skeleton.css">
@@ -30,7 +30,7 @@
         <div class="column">
 
           <h2>Jak nie wykluczać<h2>
-          <h1>Rodziców<br/> Wykonawców</h1>
+          <h1>Rodziców<br/> Artystów</h1>
           <div class="vbar"></div>
           <h3>Najlepsze praktyki dla instytucji podczas pracy z rodzicami-artystkami</h3>
 

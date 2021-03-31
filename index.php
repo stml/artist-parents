@@ -98,7 +98,7 @@
       </div>
       <div class="row">
         <div class="one-third column"><a href="en">English</a></div>
-        <div class="one-third column"><a href="pl">Polskie</a></div>
+        <div class="one-third column"><a href="pl">Polski</a></div>
         <div class="one-third column"></div>
       </div>
       <div class="row">
